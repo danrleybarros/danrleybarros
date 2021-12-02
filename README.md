@@ -23,11 +23,11 @@ Gosto muito de jogos, desde virtuais até jogos de mesa, já fui mestre de mesas
 <tr>
 <td>
 <h3 align="center">Última música que eu ouvi</h3>
-<p align="center"> <a href="https://www.youtube.com/watch?v=D9G1VOjN_84" target="_blank"> <img src="musical-notes-joypixels.gif" alt="musica"  width="200" height="200"/>
+<p align="center"> <a href="https://www.youtube.com/watch?v=qJlMkMtK7-8" target="_blank"> <img src="musical-notes-joypixels.gif" alt="musica"  width="200" height="200"/>
 </td>
 <td>
 <h3 align=center> Estou jogando constantemente: <h3> 
-<p align="center"> <a href="https://store.steampowered.com/app/456670/Hand_of_Fate_2/" target="_blank"> <img src="giphy.gif" alt="jogo"  width="200" height="200"/>
+<p align="center"> <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank"> <img src="giphy.gif" alt="jogo"  width="200" height="200"/>
 </td>
 <td>
 <h3 align=center> Ficha do meu ultimo personagem Dnd5e: <h3> 

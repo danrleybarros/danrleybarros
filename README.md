@@ -14,8 +14,7 @@
 
 <h3> Sobre Mim</h3>
 
-<p> Sou Danrley, teho 21 anos, formado em Analise e Desenvolvimento de Sistemas e um grande apetite por consumir tecnologias. Adoro Front-End, mas como não é só de beleza vive um homem,  acabou praticando mais o Back-End. 
-Gosto muito de jogos, desde virtuais até jogos de mesa, já fui mestre de mesas de D&D5e por 5 anos e jogador a 8, minha franquia de jogos favorita com toda certeza é Final Fantasy e Borderlands</p>
+<p> Sou Danrley formado em Analise e Desenvolvimento de Sistemas e um grande apetite por consumir novas tecnologias. Atualmente trabalho com .NET</p>
 
 <h3> Alguns links sobre mim: </h3>
 

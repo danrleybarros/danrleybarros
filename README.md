@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Danrley</h1>
-<h3 align="center">Programador em Ascenção e jogador de D&D 🐉 </h3>
+<h3 align="center">Programador em Ascenção</h3>
 
 <h1>
 <h3 align="left">Minhas Redes:</h3>

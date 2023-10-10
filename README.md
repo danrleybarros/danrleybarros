@@ -16,28 +16,5 @@
 
 <p> Sou Danrley formado em Analise e Desenvolvimento de Sistemas e um grande apetite por consumir novas tecnologias. Atualmente trabalho com .NET</p>
 
-<h3> Alguns links sobre mim: </h3>
-
-<table width="100%">
-<tr>
-<td>
-<h3 align="center">Última música que eu ouvi</h3>
-<p align="center"> <a href="https://www.youtube.com/watch?v=qJlMkMtK7-8" target="_blank"> <img src="musical-notes-joypixels.gif" alt="musica"  width="200" height="200"/>
-</td>
-<td>
-<h3 align=center> Estou jogando constantemente: <h3> 
-<p align="center"> <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank"> <img src="giphy.gif" alt="jogo"  width="200" height="200"/>
-</td>
-<td>
-<h3 align=center> Ficha do meu ultimo personagem Dnd5e: <h3> 
-<p align="center"> <a href="https://drive.google.com/file/d/1XrKDlUGJyme0ZhvA-vEX1beT5GHpICnM/view?usp=sharing" target="_blank"> <img src="dado.gif" alt="rpg"  width="200" height="200"/>
-</td>
-</tr>
-</table>
-
-
-
-
-<h1>
 
 
